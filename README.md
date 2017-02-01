@@ -8,4 +8,4 @@ Collection of Algorithms and Projects for [Free Code Camp](https://www.freecodec
  - Intermediate Front End Development Projects
  - Intermediate Algorithm Scripting
  - [Advanced Algorithm Scripting](Advanced Algorithm Scripting)
- -Advanced Front End Development Projects
+ - Advanced Front End Development Projects
