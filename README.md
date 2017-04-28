@@ -7,5 +7,5 @@ Collection of Algorithms and Projects for [Free Code Camp](https://www.freecodec
  - Basic Alogrithm Scripting
  - Intermediate Front End Development Projects
  - Intermediate Algorithm Scripting
- - [Advanced Algorithm Scripting](Advanced Algorithm Scripting)
+ - [Advanced Algorithm Scripting](https://github.com/Muir-Fionn/FreeCodeCamp/tree/master/Advanced%20Algorithm%20Scripting)
  - Advanced Front End Development Projects
